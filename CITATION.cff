@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, along with the original source."
+type: dataset
+title: "US Wildfires Over 1,000 Acres"
+version: "1.0"
+date-released: 2026-10-30
+license: CC-BY-4.0
+url: "https://github.com/liveatlasearth/us-wildfires-over-1000-acres"
+repository-code: "https://github.com/liveatlasearth/us-wildfires-over-1000-acres"
+abstract: "Every US Wildfire of 1,000 Acres or More Since 2014. 6,592 US wildfires over 1,000 acres since 2014 with size, cause, dates, state and coordinates. CSV, CC BY 4.0. NIFC data, by Live Atlas"
+keywords:
+  - wildfires
+  - dataset
+  - nifc
+  - united-states
+  - fire
+  - csv
+  - geospatial
+  - climate
+authors:
+  - given-names: Nathan
+    family-names: Ridge
+    affiliation: Live Atlas
+  - name: Live Atlas
+    website: "https://www.liveatlas.earth/"
